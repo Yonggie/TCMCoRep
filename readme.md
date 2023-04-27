@@ -1,4 +1,4 @@
-official implementation of TCMCoRep.
+Implementation of TCMCoRep.
 
 Will release complete codes and datasets.
 
